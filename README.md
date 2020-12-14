@@ -1,2 +1,2 @@
 # Reconocimiento-de-figuras-
-Algoritmo para la identificación de figuras
+Este es un algoritmo que se realizó con el software de uso libre Fiji el cual es una herramienta para el procesado y análisis de imágenes digitales con el cual se creó una macros para hacer un sistema de reconocimiento de objetos simple que consta de tres fases. La primera fase es el pre-procesamiento de la imagen para poder dejarla en un estado óptimo para la segunda fase que consiste en la segmentación o identificación de figuras mediante la transformada de Hough y por último, la tercera fase que consiste en el análisis de partícula.
